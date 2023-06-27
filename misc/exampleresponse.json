@@ -1,0 +1,21 @@
+{
+    "data": {
+        "profiles": [
+            {
+                "name": "The Doge",
+                "email": "thedoge@example.com",
+                "_id": "649b4d2578f2c11fc1bc76c9"
+            },
+            {
+                "name": "Big Doge",
+                "email": "bigdoge@example.com",
+                "_id": "649b4d2578f2c11fc1bc76ca"
+            },
+            {
+                "name": "Doge Machine",
+                "email": "dogemachine@example.com",
+                "_id": "649b4d2578f2c11fc1bc76cb"
+            }
+        ]
+    }
+}
